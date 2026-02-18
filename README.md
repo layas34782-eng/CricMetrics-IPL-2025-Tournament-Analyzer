@@ -28,4 +28,4 @@ Open it in Microsoft Excel.
 Use the Slicers on the right side of the dashboard to filter the data by your favorite team!
 
 ⭐ Why this Project Matters
-In my current role at an auditor's office and through my DPBA course at Anudip Foundation, I’ve learned that data is only useful if it's readable. This dashboard is a professional example of Business Intelligence applied to the world of sports.
+I’ve learned that data is only useful if it's readable. This dashboard is a professional example of Business Intelligence applied to the world of sports.
